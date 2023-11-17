@@ -1,2 +1,2 @@
-# BTNet.
-伪装目标检测
+# Edge refinement detection of camouflage targets based on deep texture features
+#作者 --袁昊
