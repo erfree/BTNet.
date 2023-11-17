@@ -1,3 +1,0 @@
-torch==1.2.0
-python==3.7.6
-opencv-python==4.6.2
